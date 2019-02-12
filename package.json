@@ -1,0 +1,14 @@
+{
+  "name": "bs3-static-web-site",
+  "version": "0.0.1",
+  "description": "Bootstrap 3 static web site",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.4",
+    "grunt": "^1.0.2",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-ejs": "^0.3.0"
+  }
+}
